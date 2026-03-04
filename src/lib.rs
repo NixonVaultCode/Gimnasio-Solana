@@ -285,4 +285,3 @@ pub enum GimnasioError {
     #[msg("Desbordamiento aritmético en los contadores")]
     Overflow,
 }
-```
